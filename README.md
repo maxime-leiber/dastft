@@ -1,3 +1,3 @@
 # DASTFT
 Differentiable adaptive short-time Fourier transform: optimize window lengths by gradient descent.
-Submitted to ICASSP 2023.
+Accepted for ICASSP 2023.
